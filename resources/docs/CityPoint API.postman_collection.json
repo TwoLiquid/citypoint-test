@@ -1,0 +1,38 @@
+{
+	"info": {
+		"_postman_id": "500fc70e-63ed-4b75-a93f-467c5c72d2ce",
+		"name": "CityPoint API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "1823505"
+	},
+	"item": [
+		{
+			"name": "guest",
+			"item": [
+				{
+					"name": "index",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:80/api/cars",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "80",
+							"path": [
+								"api",
+								"cars"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
