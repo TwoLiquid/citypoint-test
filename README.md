@@ -1,13 +1,13 @@
 # CityPoint Test API
 
-https://git.vladis.ru/vladis-web/vladis-site.git
+https://github.com/TwoLiquid/citypoint-test
 
 ## Старт
 
 Для начала клонируем проект:
 
 ```
-git clone https://git.vladis.ru/vladis-web/vladis-site.git -b dev
+git clone https://github.com/TwoLiquid/citypoint-test
 ```
 
 ## Переменные окружения
@@ -54,7 +54,5 @@ storage
 
 ## Документация
 
-Документация ведется одновременно в **OpenAPI** и **Postman** вариантах:
+Документация ведется в **Postman**
 
-1. [OpenAPI](https://git.vladis.ru/vladis-web/vladis-site/-/blob/dev/resources/docs/openapi/openapi.yaml)
-2. [Postman](https://git.vladis.ru/vladis-web/vladis-site/-/blob/dev/resources/docs/postman/Vladis%20API.postman_collection.json)
